@@ -1,0 +1,6 @@
+1) Contact page funcionality
+2) Shop page funcionality
+3) Impact page funcionality
+4) Springboard subpages complete
+5) Sign in, Sign up page 
+6) APIs not activated
